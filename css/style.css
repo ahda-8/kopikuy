@@ -107,7 +107,7 @@ nav {
       flex-wrap: wrap mengatur agar jika panjang elemen berlebih, maka elemen
       akan otomatis diletakan di baris baru
    */
-   flex-wrap: wrap;
+   
 }
 
 section {
