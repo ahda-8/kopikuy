@@ -91,7 +91,7 @@ nav {
       display: flex memiliki pengaturan yang dapat mengatur agar elemen
       di dalamnya memiliki ukuran yang fleksibel
    */
-   
+   display: flex;
 
    /* 
       align-items: center mengatur elemen di dalamnya rata tengah vertikal
