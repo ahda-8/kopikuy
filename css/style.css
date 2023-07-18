@@ -91,7 +91,7 @@ nav {
       display: flex memiliki pengaturan yang dapat mengatur agar elemen
       di dalamnya memiliki ukuran yang fleksibel
    */
-   display: flex;
+   
 
    /* 
       align-items: center mengatur elemen di dalamnya rata tengah vertikal
@@ -107,7 +107,7 @@ nav {
       flex-wrap: wrap mengatur agar jika panjang elemen berlebih, maka elemen
       akan otomatis diletakan di baris baru
    */
-   
+   flex-wrap: wrap;
 }
 
 section {
